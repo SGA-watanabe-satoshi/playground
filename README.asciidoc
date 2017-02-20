@@ -1,6 +1,6 @@
 = ASCII Doc Test
 
-link:http://www.sony.co.jp[Sony site]
+link:http://www.google.com[Google]
 
 == TEST 02
 
